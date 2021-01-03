@@ -11,10 +11,10 @@
   /* Roam default variables */
   --primary-color: #137cbd;
   --s1: 8px;
-  --background-color: #e1e8ed;
+  --background-color: #1a1a1a;
   /* Primary fonts */
   --main-font: "Inter", sans-serif;
-  --main-font-color: #999;
+  --main-font-color: #aaaaaa;
   --main-font-size: 14px;
   --code-font: "Source Code Pro", "Courier New", Courier, monospace;
   --code-font-color: #6d9cbe;
@@ -33,67 +33,67 @@
   --breadcrumb-color: #5c7080;
   --breadcrumb-font-size: 13px;
   --breadcrumb-line-height: 0.85em;
-  --calculation-color: #ff6000;
+  --calculation-color: #bfee90;
   --db-menu-bg: #333;
   --db-menu-border: #3d3d3d;
   --db-menu-header: #5c7080;
-  --db-menu-item: #eb9854;
-  --db-title-font-color: #eb9854;
+  --db-menu-item: #bfee90 ;
+  --db-title-font-color: #bfee90 ;
   --db-title-hover: rgba(167, 182, 194, 0.3);
   --dialog-bg: #333;
   --dialog-font-color: #eee;
   --emphasis: #fc5963;
   --external-link-color: #8dbb40;
   --h1-font: var(--main-font);
-  --h1-font-color: #1189bd;
+  --h1-font-color: #ffffff;
   --h1-font-size: 2.25em;
   --h1-font__link--color: var(--page-link-color);
   --h2-font: var(--h1-font);
-  --h2-font-color: #1189bd;
+  --h2-font-color: #ffffff;
   --h2-font-size: 1.625em;
   --h2-font__link--color: var(--page-link-color);
   --h3-font: var(--h1-font);
-  --h3-font-color: #1189bd;
+  --h3-font-color: #ffffff;
   --h3-font-size: 1.2rem;
   --h3-font__link--color: var(--page-link-color);
-  --highlight-background-color: #008aff5e;
+  --highlight-background-color: #385c34;
   --highlight-font-color: #bbb;
-  --highlight-link-color: #ff6000;
-  --left-sidebar-font-color: #1189bd;
-  --left-sidebar-font-color-hover: #e98924;
+  --highlight-link-color: #fce37c;
+  --left-sidebar-font-color: #ffffff;
+  --left-sidebar-font-color-hover: #13744c;
   --left-sidebar-font-size: 1rem;
   --left-sidebar-shortcuts-color: var(--left-sidebar-font-color);
   --left-sidebar-shortcuts-font-size: 1rem;
   --left-sidebar-shortcuts-title-color: var(--left-sidebar-font-color);
   --page-brackets: rgba(228, 124, 67, 0.25);
-  --page-link-color: #eb9854;
+  --page-link-color: #fce37c;
   --page-link-namespace-color: #ebd454;
-  --popover-font-color: #e98924;
+  --popover-font-color: #fce37c;
   --popover-bg: #333;
   --ref-count-font-size: 0.8em;
   --right-sidebar-font-color: var(--main-font-color);
-  --right-sidebar-link-color: #eb9854;
-  --right-sidebar-bg: #323232;
+  --right-sidebar-link-color: #fce37c;
+  --right-sidebar-bg: #111111;
   --right-sidebar-masonry-bg: var(--body-bg);
   --right-sidebar-masonry-outline: #3d3d3d;
-  --right-sidebar-section-border-color: #e9892475;
+  --right-sidebar-section-border-color: #fce37c;
   --search-bg: #252525;
   --search-body-font-color: #8a9ba8;
-  --search-font-color: #af671c;
+  --search-font-color: #bfee90;
   --search-new-page-color: #8dbb40;
-  --search-outline: #e9892475;
+  --search-outline: #fce37c;
   --search-selected-row: #4c4c4c;
-  --strong: #508bb5;
+  --strong: #ffffff;  /* bold fonts */
   --tag-font-color: #777;
   --tag-font-color-hover: #fff;
-  --tag-hover-bg: #e98924;
+  --tag-hover-bg: #fce37c;
   --tag-padding: 0.071428571em 0.428571429em 0.214285714em;
   --tag-radius: 2em;
   /* Backgrounds and objects */
   --block-highlight: #00588e;
   --block-highlight-current: rgba(255, 255, 255, 0.05);
   --block-highlight-bg: #312c28;
-  --body-bg: #2c2c2c;
+  --body-bg: #1a1a1a;
   --bullet: rgba(225, 117, 28, 0.3);
   --bullet-closed: rgba(225, 117, 28, 1);
   --bullet-closed-right-sidebar: var(--bullet-closed);
@@ -105,24 +105,24 @@
   --checkmark-border: #137cbd;
   --checkmark-bg: #555;
   --checkmark-color: #137cbd;
-  --code-bg: #002b36;
+  --code-bg: #222222;
   --datepicker-bg: transparent;
   --datepicker-day-wrapper: #d9822b7a;
   --datepicker-font-color: var(--popover-font-color);
   --datepicker-select-bg: #444;
   --hr: rgba(225, 117, 28, 0.5);
   --icon-bg-hover: rgba(167, 182, 194, 0.3);
-  --icon-color: #e78924;
-  --icon-color-hover: #e78924;
+  --icon-color: #13744c;
+  --icon-color-hover: #bfee90;
   --inline-search-bg: #333;
   --inline-comment-bg: transparent;
   --inline-comment-bg-hover: var(--reference-item-bg);
-  --left-sidebar-bg: #323232;
-  --left-sidebar-hover-bg: #1f1f1f;
+  --left-sidebar-bg: #111111;
+  --left-sidebar-hover-bg: #000000;
   --reference-item-bg: #d8ac6e1a;
   --reference-item-bg-2: #d8ac6e1a;
   --reference-item-bg-3: #d8ac6e1a;
-  --section-border-color: #e9892475;
+  --section-border-color: #ffffff;
   --select-bg: #232323;
   --topbar-bg: var(--body-bg);
   --topbar-border-color: #333;
@@ -134,7 +134,7 @@
   --pages-mentions-bg-empty: #3a3a3a;
   --pages-mentions-color: #ff6000;
   --pages-mentions-color-empty: #737373;
-  --pages-row-highlight: #292929;
+  --pages-row-highlight: #1E1E1E;
   --pages-search-bg: #3a3a3a;
   --pages-search-outline: #e9892475;
   --pages-table-border: #2f373d;
@@ -490,14 +490,14 @@ blockquote small {
 }
 
 .CodeMirror-gutters {
-  background: #2b2b2b;
+  background: #11111;
   background: var(--code-bg);
-  background: #073642;
+  background: #111111;
   border-right: 2px solid #2c2c2c;
 }
 
 .CodeMirror-linenumber {
-  color: #586e75;
+  color: #888888;
   text-shadow: #021014 0 -1px;
 }
 
@@ -1458,7 +1458,7 @@ h1 textarea {
   color: var(--h1-font-color);
   font-family: var(--h1-font);
   font-size: var(--h1-font-size);
-  font-weight: 400;
+  font-weight: 500;
   letter-spacing: normal;
 }
 
@@ -1483,7 +1483,7 @@ h1 textarea {
   color: var(--h2-font-color);
   font-family: var(--h2-font) !important;
   font-size: var(--h2-font-size);
-  font-weight: 200;
+  font-weight: 500;
   letter-spacing: 0.001em;
 }
 
@@ -1493,7 +1493,7 @@ h1 textarea {
   color: var(--h3-font-color);
   font-family: var(--h3-font) !important;
   font-size: var(--h3-font-size);
-  font-weight: 700;
+  font-weight: 500;
   letter-spacing: 0.002em;
 }
 
