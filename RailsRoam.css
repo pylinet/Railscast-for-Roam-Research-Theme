@@ -717,6 +717,7 @@ button[style*="background-color: rgba(72, 176, 240, 0.5);"] {
 /* External link */
 a {
   color: var(--external-link-color);
+  text-decoration: underline;
 }
 a:focus {
   color: var(--external-link-color);
