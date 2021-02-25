@@ -186,6 +186,7 @@
 
 .rm-pages-row .rm-pages-title-col a strong {
   color: var(--page-link-color) !important;
+  text-decoration: underline;
 }
 .rm-pages-row .rm-pages-title-col a strong:hover {
   text-decoration: underline;
